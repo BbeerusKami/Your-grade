@@ -1,4 +1,4 @@
-Naranbat 2016093	2019/03/01
+//Naranbat 2016093	2019/03/01
 fun main(args : Array<String>) {
 var x = 90 
 var y = 80
