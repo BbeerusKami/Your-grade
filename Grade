@@ -1,10 +1,11 @@
+Naranbat 2016093	2019/03/01
 fun main(args : Array<String>) {
-    var x = 90 
-	var y = 80
-	var c = 80 
-	var z = x+y+c
-	var p = (x+y+c)/3
-		println("English $x,\nHistory $y,\nMusic $c,")
-		println("Total=$z")		
-		println("Ave=$p")
+var x = 90 
+var y = 80
+var c = 80 
+var z = x+y+c
+var p = (x+y+c)/3
+println("English $x,\nHistory $y,\nMusic $c,")
+println("Total=$z")		
+println("Ave=$p")
 }
